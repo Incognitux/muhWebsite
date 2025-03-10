@@ -25,6 +25,6 @@ if (!localStorage.getItem("name")) {
     myHeading.textContent = `Hello ${storedName}, I am Incognitux`;
 }
 
-myButton.addEventListener("click") {
+myButton.addEventListener("click", () => {
     setUserName();
-}
+})
