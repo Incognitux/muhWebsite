@@ -1,0 +1,42 @@
+p, 
+li {
+  color: #efefff; 
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 34px;
+  color: #efefff;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  font-size: 48px;
+  text-align: center;
+  color: #efefff;
+  text-shadow: 0px 2px 10px black;
+}
+
+html {
+  background-color: #1e1e1e;
+  font-size: 10px;
+  font-family: "Inter";
+} 
+
+body {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #1a1a1a;
+  padding: 0 20px 20px 20px;
+  border: 2px dashed black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border: 5px solid black;
+  border-radius: 5rem;
+}
